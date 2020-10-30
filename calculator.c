@@ -23,7 +23,7 @@ int main() {
 		printf("뺄 숫자 입력 1 : ");
 		scanf("%d", m);
 		printf("뺄 숫자 입력 2 : ");
-		scanf("%f", n);
+		scanf("%d", n);
 		sub(m,n);
 	}
 	return 0;
