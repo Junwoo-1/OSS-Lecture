@@ -1,0 +1,7 @@
+This is a Calculater
+
+Sum
+a + b = c
+
+Sub
+a - b = c
