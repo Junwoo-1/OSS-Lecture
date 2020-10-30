@@ -19,5 +19,12 @@ int main() {
 		scanf("%d", n);
 		sum(m,n);
 	}
+	else if ( s == 2) {
+		printf("뺄 숫자 입력 1 : ");
+		scanf("%d", m);
+		printf("뺄 숫자 입력 2 : ");
+		scanf("%f", n);
+		sub(m,n);
+	}
 	return 0;
 }
